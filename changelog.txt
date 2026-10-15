@@ -1,11 +1,11 @@
-🚀 Update Log (v1.0.2)
+Update Log (v1.0.2)
 
-✨ Fitur Baru:
+Fitur Baru:
 • Tambah Auto Farm
 • Tambah Silent Aim & Kill Aura
 • Tambah fitur Copy Discord Link
 
-🛠️ Perbaikan & Optimasi:
+Perbaikan & Optimasi:
 • Fix crash saat ganti tim
 • Anti-lag untuk player HP / Mobile
 • Memperbaiki tampilan foto profil UI
